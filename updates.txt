@@ -3,6 +3,7 @@ HHIMS Version 2.1
 	*New Snomed search
 	*Auto map between SNOMED-ICD-IMMR
 
+
 HHIMS Version 2  
 2012/Jun
 	* Bug in dischared by information. Fixed 
