@@ -1,6 +1,6 @@
 # HHIMS
 
-#Installation of HHIMS
+# Installation of HHIMS
 Quick guide
 
 1. Install LAMP on the PC under LINUX * 
