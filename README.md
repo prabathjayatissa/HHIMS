@@ -17,7 +17,8 @@ DATABASE CONNECTION INFORMATIONS
 ```php
 $db['default']['hostname'] = 'localhost:3306';
 $db['default']['dbdriver'] = 'mysql';
-```	
+```
+
 ENTER THE USER NAME AND PASSWOR DETAILS HERE FOR MYSQL
 ```php
 $db['default']['username'] = '';
@@ -33,6 +34,7 @@ $db['default']['database'] = '';
 11. To log on to HHIMS as a Programmer (with all privileges) username: demo  password: 123
 12. If you want to run in a local area network, give a fixed IP number to the machine with the system on it and 
 simply type that number into the browser on the other machines.
+
 
 * We recommend the operating system Ubuntu. Installations are also available for Microsoft Windows and Apple Mac PCs - contact info@hhims.org
 
